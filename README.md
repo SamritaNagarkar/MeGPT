@@ -194,7 +194,3 @@ MeGPT/
 | `POST` | `/upload` | Upload a document for RAG |
 
 ---
-
-## License
-
-MIT
