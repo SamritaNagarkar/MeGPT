@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local databases and vector stores
+chroma_db/
+data/
+uploads/
+
